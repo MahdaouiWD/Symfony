@@ -1,2 +1,3 @@
 # Symfony
-Platforme d'annonce en Symfony 3
+Platforme d'annonce
+Ce projet est une platforme d'annonce, il est propulsé par Symfony, et construit grâce au MOOC OpenClassrooms et SensioLabs.
